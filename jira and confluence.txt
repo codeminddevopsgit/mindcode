@@ -1,0 +1,38 @@
+                           JIRA AND CONFLUENCE
+             
+     
+*what is jira?
+
+        => jira software is the single source of entire development cycle.
+        -> jira is :
+              *project management
+              *issue-tracking
+              *and bug tracking tool -for agile software and business teams.
+              *JIRA is made by Atlassian.
+              *The name "JIRA" is actually inherited from the japanese word "Gojira" which means "Godzilla"
+
+*why should we use JIRA ?
+    => Everything that you need to manage project and teams.
+    => Fully customize to your needs.
+    => Countless add-ons to further enhance the functionality.
+    => features which make our life easy.
+
+*What are the JIRA products?
+    => JIRA CORE:-its allow you to track issues using customizable workflow which basically determines
+                  how issue can flow from start to completion and what are the orthers steps along with 
+                  this basic functionality that would you get with jira core which is the base minimum jira
+                  tool that you can use for simple business relatecd products and task management.
+
+    => JIRA SOFTWARE :- jira software include both jira core plus agile methodologies.
+ 
+    => JIRA SERVICE DESK :-It is service desk which is used for support projects using jira service desk you 
+                         can give the better experience to your customers they can easily ask for help and 
+                         your agent can them in  a faster way ,in a better way.                                                 
+ *What is confluence?
+    => Confluence is a team workplace for project documentation and team collaboration.
+
+ 
+    => provides rice text edior,parallel editing with team managers.
+    => create knowledge base,project documents,meeting notes,blogs and lot more. 
+    => team members can collaborate and share ideas.
+    => content is versioned and easily searchable.  
