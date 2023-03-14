@@ -1,0 +1,15 @@
+*what is jira?
+ => jira software is the single source of entire development cycle.
+      -> jira is :
+              *project management
+              *issue-tracking
+              *and bug tracking tool -for agile software and business teams.
+            
+         JIRA is made by Atlassian.
+         The name "JIRA" is actually inherited from the japanese word "Gojira" which means "Godzilla"
+*why should we use JIRA ?
+  => Everything that you need to manage project and teams.
+  => Fully customize to your needs.
+  => Countless add-ons to further enhance the functionality.
+
+ 
